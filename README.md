@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently working on  Machine Learning / Deep Learning regarding Medical Image
 
 
 <!--
