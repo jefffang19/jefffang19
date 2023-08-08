@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Yu-Wen Fang (方郁文). I am currently studying my master degree in National Cheng Kung University.
+My name is Yu-Wen Fang (方郁文). I have finished my my master degree at National Cheng Kung University.
 
 - 🌱 I’m currently working on  Machine Learning / Deep Learning regarding Medical Image
 
